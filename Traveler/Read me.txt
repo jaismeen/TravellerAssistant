@@ -1,0 +1,11 @@
+Driver Assistant is a mobile application that is portable and easy to install.
+Please follow the below steps to install the app on your android phone:
+
+
+1. As a pre- requisite, The mobile device should have android OS.
+
+2. Next step is to install the app. You can find the .apk file in the bin folder of the source code.
+
+3. send it to your phone and install it directly.
+
+4. Make sure that your GPS is switched on and the mobile device should have google play store installed. 
